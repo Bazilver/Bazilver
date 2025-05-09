@@ -112,6 +112,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bazilver/bazilver/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bazilver/Bazilver/output/snake.svg" alt="Snake animation" />
 
 ###
