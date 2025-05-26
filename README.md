@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning backend<br>- ⚡ In my free time I explore cyber security</p>
+<p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning backend<br>- ⚡ In my free time I sleep </p>
 
 ###
 
