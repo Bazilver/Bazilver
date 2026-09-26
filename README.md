@@ -70,10 +70,14 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bazilver&show_icons=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bazilver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazilver&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+</p>
 
 ###
 
