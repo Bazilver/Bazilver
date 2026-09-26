@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" height="40" alt="reactjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react.js/react.js-original.svg" height="40" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -77,8 +77,7 @@
 
 ###
 
-![coding gif](https://i.imgflip.com/65efzo.gif)
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
