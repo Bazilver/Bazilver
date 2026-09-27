@@ -76,7 +76,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazilver&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.herokuapp.com/?user=bazilver&theme=dracula&hide_border=false" height="150" alt="streak stats" />
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bazilver&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
