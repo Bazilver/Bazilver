@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 Expanding my skills into backend development<br>- ⚡ Exploring interactive technology </p>
+<p align="left">- 🔭 I’m working as a Software Developer<br>- 📚 Expanding my skills into backend development<br>- ⚡ Exploring interactive technology </p>
 
 ###
 
